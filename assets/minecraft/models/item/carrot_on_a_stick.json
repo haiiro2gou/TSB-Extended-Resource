@@ -1,0 +1,26 @@
+{
+    "parent": "item/handheld_rod",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 2002
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/2002"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2003
+            },
+            "model": "item/sacred_treasure/carrot_on_a_stick/2003"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2004
+            },
+            "model": "item/carrot_on_a_stick"
+        }
+    ]
+}

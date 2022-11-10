@@ -1,0 +1,20 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/stick"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 2001
+            },
+            "model": "item/sacred_treasure/stick/2001"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2002
+            },
+            "model": "item/stick"
+        }
+    ]
+}
