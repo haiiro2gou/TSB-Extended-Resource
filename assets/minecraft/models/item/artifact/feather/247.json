@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated_32",
+    "textures": {
+        "layer0": "item/artifact/feather/247"
+    }
+}
