@@ -612,24 +612,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 2001
-            },
-            "model": "item/artifact/stick/2001"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2002
-            },
-            "model": "item/stick"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2005
-            },
-            "model": "item/artifact/stick/2005"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 2006
             },
             "model": "item/stick"
