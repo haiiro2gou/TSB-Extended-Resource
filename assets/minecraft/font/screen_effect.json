@@ -1,0 +1,49 @@
+{
+    "providers": [
+            {
+            "type": "bitmap",
+            "file": "minecraft:font/screen_effect/fade.png",
+            "height": 3200,
+            "ascent": 128,
+            "chars": [
+                "\uE010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/screen_effect/boss_intro/red_knight/1.png",
+            "height": 64,
+            "ascent": 38,
+            "chars": [
+                "\uE013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/screen_effect/boss_intro/red_knight/2.png",
+            "height": 64,
+            "ascent": 38,
+            "chars": [
+                "\uE014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/screen_effect/boss_intro/blazing_inferno.png",
+            "height": 64,
+            "ascent": 38,
+            "chars": [
+                "\uE015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:font/screen_effect/boss_intro/hetukedah.png",
+            "height": 64,
+            "ascent": 38,
+            "chars": [
+                "\uE016"
+            ]
+        }
+    ]
+}
