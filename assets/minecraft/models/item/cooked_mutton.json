@@ -4,17 +4,5 @@
         "layer0": "item/cooked_mutton"
     },
     "overrides": [
-        {
-            "predicate": {
-                "custom_model_data": 2018
-            },
-            "model": "item/artifact/cooked_mutton/2018"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2019
-            },
-            "model": "item/cooked_mutton"
-        }
     ]
 }

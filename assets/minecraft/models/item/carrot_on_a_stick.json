@@ -1182,18 +1182,6 @@
         },
         {
             "predicate": {
-                "custom_model_data": 2004
-            },
-            "model": "item/artifact/carrot_on_a_stick/2004"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2005
-            },
-            "model": "item/carrot_on_a_stick"
-        },
-        {
-            "predicate": {
                 "custom_model_data": 2006
             },
             "model": "item/artifact/carrot_on_a_stick/2006"
@@ -1213,18 +1201,6 @@
         {
             "predicate": {
                 "custom_model_data": 2009
-            },
-            "model": "item/carrot_on_a_stick"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2025
-            },
-            "model": "item/artifact/carrot_on_a_stick/2025"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 2026
             },
             "model": "item/carrot_on_a_stick"
         },
