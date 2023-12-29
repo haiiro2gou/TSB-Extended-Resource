@@ -140,7 +140,7 @@
             "predicate": {
                 "custom_model_data": 20059
             },
-            "model": "item/mob/stone/20059"
+            "model": "item/stone"
         },
         {
             "predicate": {
@@ -151,12 +151,6 @@
         {
             "predicate": {
                 "custom_model_data": 20061
-            },
-            "model": "item/mob/stone/20061"
-        },
-        {
-            "predicate": {
-                "custom_model_data": 20062
             },
             "model": "item/stone"
         }
