@@ -27,7 +27,7 @@
             "hasTextures": false
         },
         {
-            "label": "item/handheld_tsb",
+            "label": "item/handheld_tsb/16",
             "description": "特殊な持ち方",
             "detail": "人参棒と同じテクスチャの向きで、一人称視点が剣と同じ持ち方をします。",
             "hasTextures": false
