@@ -1,5 +1,5 @@
 {
-    "parent": "item/generated",
+    "parent": "item/handheld",
     "gui_light": "front",
     "display": {
         "thirdperson_righthand": {

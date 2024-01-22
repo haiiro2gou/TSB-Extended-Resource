@@ -33,25 +33,25 @@
             "hasTextures": false
         },
         {
-            "label": "item/generated_32",
+            "label": "item/generated/32",
             "description": "32px用の通常のアイテムの持ち方",
             "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/generated`と同じ。",
             "hasTextures": false
         },
         {
-            "label": "item/handheld_32",
+            "label": "item/handheld/32",
             "description": "32px用の剣の持ち方",
             "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/handheld`と同じ。",
             "hasTextures": false
         },
         {
-            "label": "item/handheld_rod_32",
+            "label": "item/handheld_rod/32",
             "description": "32px用の人参棒の持ち方",
             "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/handheld_rod`と同じ。",
             "hasTextures": false
         },
         {
-            "label": "item/handheld_tsb_32",
+            "label": "item/handheld_tsb/32",
             "description": "32px用の特殊な持ち方",
             "detail": "通常に比べてアイテムが薄く描画されるよ。それ以外は`item/handheld_tsb`と同じ。",
             "hasTextures": false
