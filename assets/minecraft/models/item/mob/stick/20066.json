@@ -1,6 +1,6 @@
 {
 	"credit": "Made with Blockbench",
-	"parent": "item/handheld",
+	"parent": "item/handheld/16",
 	"textures": {
 		"layer0": "item/mob/stick/20066"
 	},

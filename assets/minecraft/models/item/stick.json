@@ -1,5 +1,5 @@
 {
-    "parent": "item/handheld",
+    "parent": "item/handheld/16",
     "textures": {
         "layer0": "item/stick"
     },
@@ -1550,13 +1550,13 @@
             "predicate": {
                 "custom_model_data": 20313
             },
-            "model": "item/other/test/generated/thk_24"
+            "model": "item/other/test/generated/24"
         },
         {
             "predicate": {
                 "custom_model_data": 20314
             },
-            "model": "item/other/test/generated/thk_32"
+            "model": "item/other/test/generated/32"
         },
         {
             "predicate": {

@@ -6,17 +6,17 @@
     ],
     "mcrg.parentElements": [
         {
-            "label": "item/generated",
+            "label": "item/generated/16",
             "description": "通常のアイテムの持ち方",
             "hasTextures": false
         },
         {
-            "label": "item/handheld",
+            "label": "item/handheld/16",
             "description": "剣の持ち方",
             "hasTextures": false
         },
         {
-            "label": "item/handheld_rod",
+            "label": "item/handheld_rod/16",
             "description": "人参棒の持ち方",
             "detail": "剣と比べるとテクスチャの向きが違い、一人称視点でアイテムを前方に向けた持ち方をします",
             "hasTextures": false

@@ -1,6 +1,6 @@
 {
     "credit": "Made with Blockbench",
-    "parent": "item/generated",
+    "parent": "item/generated/16",
     "textures": {
         "layer0": "item/artifact/cod/217",
         "particle": "block/redstone_block"

@@ -1,6 +1,6 @@
 {
 	"angel": "I gave everything I had to .....",
-	"parent": "item/generated",
+	"parent": "item/generated/16",
 	"textures": {
 		"layer0": "item/mob/iron_sword/20044"
 	},
