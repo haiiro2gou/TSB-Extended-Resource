@@ -758,6 +758,12 @@
             "predicate": {
                 "custom_model_data": 1069
             },
+            "model": "item/artifact/stick/1069"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 1070
+            },
             "model": "item/stick"
         },
         {
