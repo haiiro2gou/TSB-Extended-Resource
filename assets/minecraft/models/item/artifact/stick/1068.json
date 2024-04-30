@@ -1,3 +1,6 @@
 {
-    "parent": "item/blaze_powder"
+    "parent": "item/generated/16",
+    "textures": {
+        "layer0": "item/artifact/stick/1068"
+    }
 }
