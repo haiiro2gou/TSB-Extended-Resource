@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "item/mob/stick/20182/blacktexture2",
+		"3": "item/mob/stick/20182/texture_2",
 		"1_0": "item/mob/stick/20182/axe"
 	},
 	"elements": [

@@ -3,7 +3,7 @@
     "parent": "minecraft:block/orientable",
     "textures": {
         "top": "block/pumpkin_top",
-        "front": "item/mob/carved_pumpkin/20203/3",
+        "front": "item/mob/carved_pumpkin/20201/3",
         "side": "block/pumpkin_side"
     },
     "display": {

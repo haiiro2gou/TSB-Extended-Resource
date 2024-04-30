@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/mob/stick/20062/angel",
-		"1": "item/mob/stick/20062/hat",
+		"0": "item/mob/stone/20055/angel",
+		"1": "item/mob/stone/20055/hat",
 		"2": "block/ice",
-		"particle": "item/mob/stick/20062/angel"
+		"particle": "item/mob/stone/20055/angel"
 	},
 	"elements": [
 		{

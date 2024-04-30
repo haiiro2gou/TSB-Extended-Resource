@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"4": "item/artifact/carrot_on_a_stick/1024/brave_grimore"
+		"4": "item/artifact/carrot_on_a_stick/1024"
 	},
 	"elements": [
 		{

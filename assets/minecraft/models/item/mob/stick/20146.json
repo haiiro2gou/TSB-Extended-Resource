@@ -5,8 +5,8 @@
         32
     ],
     "textures": {
-        "0": "item/mob/stick/20146/skina",
-        "1": "item/mob/stick/20146/guntex"
+        "0": "item/mob/stick/20143/skina",
+        "1": "item/mob/stick/20143/gun"
     },
     "elements": [
         {

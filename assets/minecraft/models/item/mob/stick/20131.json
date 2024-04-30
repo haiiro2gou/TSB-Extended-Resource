@@ -5,9 +5,9 @@
         64
     ],
     "textures": {
-        "0": "item/mob/stick/20131/texture",
-        "1": "item/mob/stick/20131/crossbow",
-        "particle": "item/mob/stick/20131/texture"
+        "0": "item/mob/stick/20124/texture",
+        "1": "item/mob/stick/20124/crossbow",
+        "particle": "item/mob/stick/20124/texture"
     },
     "elements": [
         {

@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "item/artifact/carrot_on_a_stick/78/kaboom",
-        "particle": "item/artifact/carrot_on_a_stick/78/kaboom"
+        "0": "item/artifact/carrot_on_a_stick/78",
+        "particle": "item/artifact/carrot_on_a_stick/78"
     },
     "elements": [
         {

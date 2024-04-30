@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/artifact/carrot_on_a_stick/769/shaking_splash"
+		"1": "item/artifact/carrot_on_a_stick/769"
 	},
 	"elements": [
 		{

@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "item/artifact/stick/364/redknight",
-		"particle": "item/artifact/stick/364/redknight"
+		"0": "item/artifact/stick/364",
+		"particle": "item/artifact/stick/364"
 	},
 	"elements": [
 		{

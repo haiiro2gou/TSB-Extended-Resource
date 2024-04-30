@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/other/stick/20231/yellow_fish"
+		"1": "item/other/stick/20230/yellow"
 	},
 	"elements": [
 		{

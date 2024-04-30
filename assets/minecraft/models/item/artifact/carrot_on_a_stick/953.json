@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/artifact/carrot_on_a_stick/953/meteor_rain",
-		"particle": "item/artifact/carrot_on_a_stick/953/meteor_rain"
+		"0": "item/artifact/carrot_on_a_stick/953",
+		"particle": "item/artifact/carrot_on_a_stick/953"
 	},
 	"elements": [
 		{

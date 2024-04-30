@@ -5,8 +5,7 @@
         32
     ],
     "textures": {
-        "0": "item/mob/stick/20143/skina",
-        "particle": "sword"
+        "0": "item/mob/stick/20143/skina"
     },
     "elements": [
         {

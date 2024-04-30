@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-        "0": "item/mob/stick/20015/hetu_head"
+        "0": "item/mob/stick/20013/hetu_head"
 	},
 	"elements": [
 		{

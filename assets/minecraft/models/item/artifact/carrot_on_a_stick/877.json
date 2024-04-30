@@ -5,8 +5,8 @@
         64
     ],
     "textures": {
-        "0": "item/artifact/carrot_on_a_stick/877/uni",
-        "particle": "item/artifact/carrot_on_a_stick/877/uni"
+        "0": "item/artifact/carrot_on_a_stick/877",
+        "particle": "item/artifact/carrot_on_a_stick/877"
     },
     "elements": [
         {

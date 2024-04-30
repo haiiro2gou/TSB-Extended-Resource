@@ -6,7 +6,7 @@
     ],
     "textures": {
         "0": "item/mob/stick/20190/skina",
-        "2": "item/mob/stick/20194/gun"
+        "2": "item/mob/stick/20190/gun"
     },
     "elements": [
         {

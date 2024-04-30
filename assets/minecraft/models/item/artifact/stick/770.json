@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
     "parent": "item/artifact/carrot_on_a_stick/769",
 	"textures": {
-		"1": "item/artifact/stick/770/shaking_splash_reload"
+		"1": "item/artifact/stick/770"
 	},
 	"display": {
 		"thirdperson_righthand": {

@@ -2,8 +2,8 @@
 	"credit": "by yavu",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/mob/stick/20161/base",
-		"2": "item/mob/stick/20161/blade"
+		"1": "item/mob/stick/20160/base",
+		"2": "item/mob/stick/20160/blade_2"
 	},
 	"elements": [
 		{

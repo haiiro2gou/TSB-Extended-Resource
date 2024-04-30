@@ -3,8 +3,8 @@
 	"texture_size": [96, 96],
 	"textures": {
 		"0": "item/mob/stick/20068/tultaria",
-		"1": "item/mob/stick/20069/sword",
-		"particle": "item/mob/stick/20069/sword"
+		"1": "item/mob/stick/20068/sword",
+		"particle": "item/mob/stick/20068/sword"
 	},
 	"elements": [
 		{

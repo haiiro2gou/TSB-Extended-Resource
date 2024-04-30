@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/artifact/ender_eye/876/uni",
-		"particle": "item/artifact/ender_eye/876/uni"
+		"0": "item/artifact/ender_eye/876",
+		"particle": "item/artifact/ender_eye/876"
 	},
 	"elements": [
 		{

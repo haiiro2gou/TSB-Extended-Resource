@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/mob/stone/20037/angel",
-		"2": "item/mob/stone/20037/rod",
-		"particle": "item/mob/stone/20037/angel"
+		"0": "item/mob/stone/20035/angel",
+		"2": "item/mob/stone/20035/rod",
+		"particle": "item/mob/stone/20035/angel"
 	},
 	"elements": [
 		{

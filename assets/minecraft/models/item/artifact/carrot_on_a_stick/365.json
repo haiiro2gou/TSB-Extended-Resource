@@ -1,8 +1,8 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "item/artifact/carrot_on_a_stick/365/redknight",
-        "particle": "item/artifact/carrot_on_a_stick/365/redknight"
+        "0": "item/artifact/carrot_on_a_stick/365",
+        "particle": "item/artifact/carrot_on_a_stick/365"
     },
     "elements": [
         {

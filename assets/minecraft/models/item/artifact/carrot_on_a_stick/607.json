@@ -1,7 +1,7 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "2": "item/artifact/carrot_on_a_stick/607/texture"
+        "2": "item/artifact/carrot_on_a_stick/607"
     },
     "elements": [
         {

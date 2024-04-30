@@ -1,9 +1,9 @@
 {
     "credit": "Made with Blockbench",
     "textures": {
-        "0": "item/artifact/carrot_on_a_stick/5/matchlock",
+        "0": "item/artifact/carrot_on_a_stick/5",
         "missing": "item/other/missing/missing",
-        "particle": "item/artifact/carrot_on_a_stick/5/matchlock"
+        "particle": "item/artifact/carrot_on_a_stick/5"
     },
     "elements": [
         {

@@ -1,7 +1,7 @@
 {
 	"textures": {
-		"0": "item/artifact/carrot_on_a_stick/225/massuru",
-		"particle": "item/artifact/carrot_on_a_stick/225/massuru"
+		"0": "item/artifact/carrot_on_a_stick/224",
+		"particle": "item/artifact/carrot_on_a_stick/224"
 	},
 	"elements": [
 		{
