@@ -5,8 +5,8 @@
         64
     ],
     "textures": {
-        "1": "item/artifact/stick/606/texture",
-        "particle": "item/artifact/stick/606/texture"
+        "1": "item/artifact/stick/606",
+        "particle": "item/artifact/stick/606"
     },
     "elements": [
         {
