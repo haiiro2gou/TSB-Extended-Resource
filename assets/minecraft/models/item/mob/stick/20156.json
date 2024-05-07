@@ -6,7 +6,7 @@
     ],
     "textures": {
         "0": "block/stonecutter_saw",
-        "1": "item/mob/stick/20156/texture",
+        "1": "item/mob/stick/20156",
         "particle": "block/stonecutter_saw"
     },
     "elements": [
